@@ -209,7 +209,11 @@ p img {
 p.lead {
     font-family: "montserrat-regular", sans-serif;
     font-size: 2rem;
+    font-style: italic;
+    text-align: center;
     line-height: 1.5;
+    margin-left: auto;
+    margin-left: auto;
     margin-bottom: 3.6rem;
     color: #0D0A0B;
 }
