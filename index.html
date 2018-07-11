@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="css/vendor.css">
     <link rel="stylesheet" href="css/main.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/pyramid.css">
 
     <!-- <script src="d3.v3.js"></script> -->
 
@@ -86,10 +87,10 @@
 
             <h1>Hello, Naitik here!<br></h1>
 
-            <h2>- A Computer Science Graduate <br>
-                student From Arizona State University<hr>
-                - Software Developer
-                - Intern at Cyr3con
+            <h2>-> A Computer Science Graduate <br>
+                student at Arizona State University<hr>
+                -> Software Developer<hr>
+                -> Web Developer
                 <br>
             </h2>
 
@@ -156,19 +157,73 @@
 
     <div class="row narrow section-intro has-bottom-sep">
         <div class="col-full text-center">
-            <!--            <h3>About</h3>
-            -->            <h1>More About Me</h1>
-            <p class="lead"> - A creative Software Developer, with strong analytical abilities to know the user
-                requirements and a wide range of technical skills to design, develop, test and maintain the Software
-                Solutions.
-                <br> - I am currently Masters in Computer Science graduate student at Arizona State University and interning at <a target="_blank" style="color: greenyellow" href="https://cyr3con.ai/">Cyr3con</a>.
-                <br> - I want to pursue my career with an organization to utilize my skills to develop unique features and optimize the existing processes
-                <br> - I believe in teamwork and positive attitude for increased productivity of the organization. I wish to achieve excellence in every endeavor I undertake
-                thus contributing to my professional growth.</p>
+            <h1>More About Me</h1>
+
+            <div class="container-pyramid tab-full text-center">
+
+                <div class="side left" >
+                    <p style="margin-top:20px; margin-left: -5px; text-align: center">C<br>R<br>E<br>A<br>T<br>I<br>V<br>E</p>
+                </div>
+                <div class="side front">
+                    <p style="margin-top:20px; margin-left: -5px;text-align: center">T<br>E<br>A<br>M<br><br>P<br>L<br>A<br>Y<br>E<br>R</p></div>
+
+
+                <div class="side right">
+                    <p style="margin-top:20px; margin-left: -5px;text-align: center">D<br>E<br>D<br>I<br>C<br>A<br>T<br>E<br>D</p></div>
+
+
+                <div class="side back">
+                    <p style="margin-top:20px; margin-left: -5px;text-align: center">I<br>N<br>N<br>O<br>V<br>A<br>T<br>I<br>V<br>E</p></div>
+            </div>
+
         </div>
+
+        <!--<div class="col-six right">-->
+
+            <!--<div class="side left" >-->
+                <!--<p style="margin-top:20px; margin-left: -5px; text-align: center">C<br>R<br>E<br>A<br>T<br>I<br>V<br>E</p>-->
+            <!--</div>-->
+            <!--<div class="side front">-->
+                <!--<p style="margin-top:20px; margin-left: -5px;text-align: center">T<br>E<br>A<br>M<br><br>P<br>L<br>A<br>Y<br>E<br>R</p></div>-->
+
+
+            <!--<div class="side right">-->
+                <!--<p style="margin-top:20px; margin-left: -5px;text-align: center">D<br>E<br>D<br>I<br>C<br>A<br>T<br>E<br>D</p></div>-->
+
+
+            <!--<div class="side back">-->
+                <!--<p style="margin-top:20px; margin-left: -5px;text-align: center">I<br>N<br>N<br>O<br>V<br>A<br>T<br>I<br>V<br>E</p></div>-->
+
+        <!--</div>-->
+        <!--<div class="col-five pull-right">-->
+
+            <!--<h5> -> Software Developer Intern at <a target="_blank" style="color: darkred" href="https://cyr3con.ai/">Cyr3con</a>.</h5>-->
+            <!--<h5> -> Former Software Engineer at Colgate</h5>-->
+            <!--<h5> -> Graduate GPA: 4/4</h5>-->
+        <!--</div>-->
+    <!--</div>-->
+                <!--<div class="shadow"></div>-->
+            <!--</div>-->
+
+            <!--            <h3>About</h3>
+            -->
+            <!--<p class="lead"> - Creative and Innovative Software Developer-->
+                <!--<br> - Intern at <a target="_blank" style="color: darkred" href="https://cyr3con.ai/">Cyr3con</a>.-->
+                <!--<br> - I want to pursue my career with an organization to utilize my skills to develop unique features and optimize the existing processes-->
+                <!--<br> - I believe in teamwork and positive attitude for increased productivity of the organization. I wish to achieve excellence in every endeavor I undertake-->
+                <!--thus contributing to my professional growth.</p>-->
+
     </div>
 
     <div class="row about-content">
+
+        <div class="col-full tab-full text-center">
+
+            <h4> -> Software Developer Intern at <a target="_blank" style="color: darkred" href="https://cyr3con.ai/">Cyr3con</a>.</h4>
+            <h4> -> Former Software Engineer at Colgate</h4>
+            <h4> -> Graduate GPA: 4/4</h4>
+        </div>
+        <hr>
 
         <div class="col-six tab-full left">
             <h3>Key Highlights</h3>
@@ -203,7 +258,7 @@
 
         </div>
 
-        <div class="col-six tab-full left">
+        <div class="col-five tab-full left" style="margin: auto">
 
             <div><h3>Here are Technical Skills!</h3></div><hr>
             <div id="chart"></div>
@@ -249,8 +304,8 @@
                         .on("zoom", null);
 
                     var main_margin = {top: 10, right: 10, bottom: 30, left: 100},
-                        main_width = 500 - main_margin.left - main_margin.right,
-                        main_height = 400 - main_margin.top - main_margin.bottom;
+                        main_width = 300 - main_margin.left - main_margin.right,
+                        main_height = 350 - main_margin.top - main_margin.bottom;
 
                     var mini_margin = {top: 10, right: 10, bottom: 30, left: 10},
                         mini_height = 400 - mini_margin.top - mini_margin.bottom;
@@ -1439,6 +1494,7 @@
 <div id="preloader">
     <div id="loader"></div>
 </div>
+
 
 
 <!-- Java Script

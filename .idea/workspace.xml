@@ -2,6 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62982d2-aa4c-47c3-adb0-d610e645b6af" name="Default" comment="">
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/.angular-cli.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/.editorconfig" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/README.md" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/karma.conf.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/package-lock.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/package.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/protractor.conf.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/data.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.css" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/favicon.ico" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/index.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/main.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/styles.css" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/test.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/tsconfig.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pyramid.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -29,11 +65,25 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18967">
-              <caret line="1453" selection-start-line="1453" selection-end-line="1453" />
+            <state relative-caret-position="93">
+              <caret line="85" column="43" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h5#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyramid.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/pyramid.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-531">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -41,7 +91,7 @@
       <file leaf-file-name="vendor.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/vendor.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3120">
+            <state relative-caret-position="15">
               <caret line="208" column="37" selection-start-line="208" selection-start-column="37" selection-end-line="208" selection-end-column="37" />
             </state>
           </provider>
@@ -50,8 +100,8 @@
       <file leaf-file-name="chart.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="471">
+              <caret line="169" column="9" lean-forward="true" selection-start-line="26" selection-end-line="169" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -68,8 +118,8 @@
       <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+            <state relative-caret-position="486">
+              <caret line="473" column="1" selection-start-line="473" selection-start-column="1" selection-end-line="473" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -86,16 +136,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>s-</find>
-      <find>foto</find>
-      <find>contac</find>
       <find>ul</find>
       <find>address</find>
       <find>friend rec</find>
       <find>friend</find>
       <find>favicon</find>
       <find>title</find>
-      <find>d3</find>
       <find>node</find>
       <find>50</find>
       <find>python</find>
@@ -109,13 +155,17 @@
       <find>4.11</find>
       <find>educa</find>
       <find>flare</find>
-      <find>width</find>
       <find>card</find>
       <find>intern</find>
       <find>scroll</find>
       <find>smoothsc</find>
       <find>smoothscrol</find>
       <find>arrow</find>
+      <find>d3</find>
+      <find>data</find>
+      <find>d3.</find>
+      <find>top</find>
+      <find>width</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -134,11 +184,12 @@
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/brushable.html" />
-        <option value="$PROJECT_DIR$/css/base.css" />
         <option value="$PROJECT_DIR$/css/bubblechart.css" />
         <option value="$PROJECT_DIR$/subjects.json" />
         <option value="$PROJECT_DIR$/chart.html" />
         <option value="$PROJECT_DIR$/flare.json" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$PROJECT_DIR$/css/pyramid.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -153,8 +204,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="399" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1041" />
     <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -163,7 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,6 +231,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,6 +240,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,25 +293,30 @@
       <workItem from="1529427811208" duration="112000" />
       <workItem from="1529521732903" duration="2420000" />
       <workItem from="1530133329873" duration="17000" />
+      <workItem from="1530138956296" duration="161000" />
+      <workItem from="1530815221986" duration="318000" />
+      <workItem from="1530915008343" duration="419000" />
+      <workItem from="1530917947952" duration="39000" />
+      <workItem from="1531282708554" duration="6089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76988000" />
+    <option name="totallyTimeSpent" value="84014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003524" side_tool="true" weight="0.28969696" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.31757575" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.31757575" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -266,19 +328,19 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24305555" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -292,10 +354,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/logo.png" />
-    <entry file="file://$PROJECT_DIR$/images/testimonial-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/wheel-1000.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -411,13 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-358">
@@ -431,20 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flare.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -462,13 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/vendor.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="208" column="37" selection-start-line="208" selection-start-column="37" selection-end-line="208" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/iconic/css/iconmonstr-iconic-font.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -476,12 +506,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flare.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="473" column="1" selection-start-line="473" selection-start-column="1" selection-end-line="473" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/vendor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="208" column="37" selection-start-line="208" selection-start-column="37" selection-end-line="208" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pyramid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="169" column="9" lean-forward="true" selection-start-line="26" selection-end-line="169" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18967">
-          <caret line="1453" selection-start-line="1453" selection-end-line="1453" />
+        <state relative-caret-position="93">
+          <caret line="85" column="43" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h5#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
