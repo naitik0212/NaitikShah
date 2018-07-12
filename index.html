@@ -262,7 +262,9 @@
 
             <div><h3>Here are Technical Skills!</h3></div><hr>
             <div id="chart"></div>
-            <div id="explanation">You can see more or less of the total bar chart on the left by either dragging the box in the mini chart on the right or by scrolling your mouse. You can also click anywhere in the mini chart to center the box on that region. And you can increase and decrease the size of the box by dragging the top or bottom handle up or down.</div>
+            <div id="explanation" style="text-align: center; color: #0F1215">Scroll up and down to view all the skills along with its relative proficiency.</div>
+
+            <!--<div id="explanation">You can see more or less of the total bar chart on the left by either dragging the box in the mini chart on the right or by scrolling your mouse. You can also click anywhere in the mini chart to center the box on that region. And you can increase and decrease the size of the box by dragging the top or bottom handle up or down.</div>-->
 
             <script>
 
@@ -303,13 +305,13 @@
                     var zoomer = d3.behavior.zoom()
                         .on("zoom", null);
 
-                    var main_margin = {top: 10, right: 10, bottom: 30, left: 100},
-                        main_width = 300 - main_margin.left - main_margin.right,
-                        main_height = 350 - main_margin.top - main_margin.bottom;
+                    var main_margin = {top: 10, right: 5, bottom: 10, left: 90},
+                        main_width = window.innerWidth/2.7 - main_margin.left - main_margin.right,
+                        main_height = window.innerHeight/1.7 - main_margin.top - main_margin.bottom;
 
-                    var mini_margin = {top: 10, right: 10, bottom: 30, left: 10},
-                        mini_height = 400 - mini_margin.top - mini_margin.bottom;
-                    mini_width = 100 - mini_margin.left - mini_margin.right;
+                    var mini_margin = {top: 10, right: 5, bottom: 10, left: 5},
+                        mini_height = window.innerHeight/1.7 - mini_margin.top - mini_margin.bottom;
+                    mini_width = window.innerWidth/13 - mini_margin.left - mini_margin.right;
 
                     svg = d3.select("#chart").append("svg")
                         .attr("class", "svgWrapper")
@@ -361,7 +363,7 @@
                     main_xAxis = d3.svg.axis()
                         .scale(main_xScale)
                         .orient("bottom")
-                        .ticks(4)
+                        .ticks(2)
                         //.tickSize(0)
                         .outerTickSize(0);
 
@@ -725,7 +727,7 @@
 </section>
 
 
-<section id="Education" class="s-works target-section" style="background: radial-gradient(darkgrey,#476481);">
+<section id="Education" class="s-works target-section" style="background: radial-gradient(white,#476481);">
 
     <div class="row about-content about-content--timeline">
 
@@ -783,7 +785,7 @@
                     <!--</div>-->
                 <!--</div> &lt;!&ndash; end timeline__block &ndash;&gt;-->
                 <a href="chart.html"
-                   class="btn btn--primary full-width" target="_blank">Subjects and Technologies learnt in detail</a>
+                   class="btn btn--primary full-width" target="_blank">Subjects and Technologies</a>
 
             </div> <!-- end timeline -->
         </div> <!-- end left -->
@@ -807,15 +809,36 @@
                 <div class="timeline__block">
                     <div class="timeline__bullet"></div>
                     <div class="timeline__header">
-                        <p class="timeline__timeframe">November 2017 - Present</p>
-                        <h3>Graduate Service Assistant (Software Development)</h3>
+                        <p class="timeline__timeframe">May 2018 - Present</p>
+                        <h3>Software Developer Intern</h3>
+                        <h5><a target="_blank" style="color: darkred" href="https://cyr3con.ai/">Cyr3con</a> (Tempe, USA)</h5>
+
+                    </div>
+                    <div class="timeline__desc">
+                        <ul><li>Working as a full-stack developer to develop the end to end product of the Cyr3con.</li>
+                            <li>Developed the official website of <a target="_blank" style="color: darkred" href="https://cyr3con.ai/">Cyr3con</a> from scratch using Angular 6 and Bootstrap.</li>
+                            <li>Migrated the internal portal for customers from Angular 4 to Angular 5.2. </li>
+                            <li>Developed role based authentication system in Angular 5.2 using RouteGuards.</li>
+                            <li>Developed caching mechanism and splitted the APIs to improve the efficiency of the APIs fetched by 50%.</li>
+                            <li>Developing an interactive Dashboard for customer to gain insights using D3, NGX Charts over Angular 5.2.</li>
+                            <li>Developing APIs in the backend using Spring Boot.</li></ul>
+                    </div>
+                </div> <!-- end timeline__block -->
+
+                <div class="timeline__block">
+                    <div class="timeline__bullet"></div>
+                    <div class="timeline__header">
+                        <p class="timeline__timeframe">November 2017 - May 2018</p>
+                        <h3>Graduate Software Developer</h3>
                         <h5>CySIS Lab, Arizona State University (Tempe, USA)</h5>
 
                     </div>
                     <div class="timeline__desc">
-                        <ul><li>Developing and fixing UI issues of the vulnerability update module as a front-end developer using Angular4 and D3.js.</li>
-                            <li> Designing new reactive web pages for displaying data through various API endpoints.</li>
-                            <li>Working on the role based authentication system in Angular4</li></ul>
+                        <ul><li>Developed and fixing UI issues of the vulnerability update module as a front-end developer using Angular4.</li>
+                            <li>Designed new reactive web pages for displaying data through various API endpoints.</li>
+                            <li>Developed the User Admin Panel that includes user management for the website.</li>
+                            <li>Integrated a translate language functionality using the google APIs.</li>
+                            <li>Developed the routing module for better navigation accross the website.</li></ul>
                     </div>
                 </div> <!-- end timeline__block -->
 

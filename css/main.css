@@ -83,7 +83,7 @@ html, body {
 }
 
 body {
-    background: radial-gradient(darkgrey,#476481);
+    background: radial-gradient(white,darkgrey,#476481);
     font-family: 'Karla', sans-serif;
     font-weight:400;
     font-size: 1.6rem;
