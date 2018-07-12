@@ -3,7 +3,7 @@
 <style>
 
     .node {
-        cursor: pointer;
+        cursor: e-resize;
     }
 
     .node circle {
@@ -13,26 +13,28 @@
     }
 
     .node text {
-        font: 10px sans-serif;
+        font-size: 18px;
     }
 
     .link {
         fill: none;
         stroke: #ccc;
-        stroke-width: 1.5px;
+        stroke-width: 2.5px;
     }
 
 </style>
-<body>
+<body style="background: radial-gradient(darkgrey,#476481);">
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <div class="row about-content about-content--timeline">
 
     <div class="col-full text-center">
 <script>
 
-    var margin = {top: 20, right: 120, bottom: 20, left: 120},
-        width = 1300 - margin.right - margin.left,
-        height = 800 - margin.top - margin.bottom;
+    var margin = {top: 20, right: 20, bottom: 20, left: 100},
+        width = window.innerWidth/1.1- margin.right - margin.left ;
+    height = window.innerHeight - margin.top - margin.bottom;
+    // width = 1300 - margin.right - margin.left,
+    // height = 800
 
     var i = 0,
         duration = 750,
@@ -78,7 +80,8 @@
             links = tree.links(nodes);
 
         // Normalize for fixed-depth.
-        nodes.forEach(function(d) { d.y = d.depth * 180; });
+        // nodes.forEach(function(d) { d.y = d.depth * 180; });
+        nodes.forEach(function(d) { d.y = d.depth * window.innerWidth/(10); });
 
         // Update the nodes…
         var node = svg.selectAll("g.node")
