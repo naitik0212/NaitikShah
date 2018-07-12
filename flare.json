@@ -24,7 +24,7 @@
               ]
             },
             {
-              "name": "Foundations of Algorithms ",
+              "name": "Algorithms ",
               "children": [
                 {"name": "Java", "size": 698},
                 {"name": "Python", "size": 100}
@@ -49,9 +49,9 @@
                 {
                   "name": "Cloud Computing",
                   "children": [
-                    {"name": "SpringBoot (Java)", "size": 698},
+                    {"name": "SpringBoot", "size": 698},
                     {
-                      "name": "Amazon Web Services",
+                      "name": "AWS",
                       "children": [
                         {"name": "EC2", "size": 698},
                         {"name": "S3", "size": 5569},
@@ -63,18 +63,18 @@
                     {
                       "name": "Google Cloud",
                       "children": [
-                        {"name": "Google Compute Engine", "size": 698},
+                        {"name": "Compute Engine", "size": 698},
                         {"name": "FireBase", "size": 500}
                       ]
                     },
                     {"name": "Android", "size": 353},
                     {"name": "Angular4", "size": 800},
                     {"name": "Python", "size": 800},
-                    {"name": "Shell scripting", "size": 500}
+                    {"name": "ShellScript", "size": 500}
                   ]
                 },
                 {
-                  "name": "Statistical Machine Learning",
+                  "name": "Machine Learning",
                   "children": [
                     {"name": "Python", "size": 698},
                     {"name": "Keras", "size": 5569},
