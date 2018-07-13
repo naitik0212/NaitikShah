@@ -1,0 +1,113 @@
+{
+  "name": "Education",
+  "children": [
+    {
+      "name": "Masters (CGPA: 4/4)   ",
+      "children": [
+        {
+          "name": "Semester I",
+          "children": [
+            {
+              "name": "Mobile Computing ",
+              "children": [
+                {"name": "Android", "size": 1000},
+                {"name": "Kotlin", "size": 200},
+                {"name": "Weka", "size": 400},
+                {"name": "iOS", "size": 100}
+              ]
+            },
+            {
+              "name": "Data Mining",
+              "children": [
+                {"name": "Python", "size": 700},
+                {"name": "Matlab", "size": 500}
+              ]
+            },
+            {
+              "name": "Algorithms ",
+              "children": [
+                {"name": "Java", "size": 698},
+                {"name": "Python", "size": 100}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semester II",
+          "children": [
+            {
+              "name": "Data Visualization",
+              "children": [
+                {"name": "HTML/CSS", "size": 698},
+                {"name": "JavaScript", "size": 5569},
+                {"name": "d3", "size": 353},
+                {"name": "Tableau", "size": 800},
+                {"name": "Plotly", "size": 800},
+                {"name": "Angular4", "size": 500}
+              ]
+            },
+                {
+                  "name": "Cloud Computing",
+                  "children": [
+                    {"name": "SpringBoot", "size": 698},
+                    {
+                      "name": "AWS",
+                      "children": [
+                        {"name": "EC2", "size": 698},
+                        {"name": "S3", "size": 5569},
+                        {"name": "SQS", "size": 353},
+                        {"name": "EBS", "size": 800},
+                        {"name": "Snapshot", "size": 500}
+                      ]
+                    },
+                    {
+                      "name": "Google Cloud",
+                      "children": [
+                        {"name": "Compute Engine", "size": 698},
+                        {"name": "FireBase", "size": 500}
+                      ]
+                    },
+                    {"name": "Android", "size": 353},
+                    {"name": "Angular4", "size": 800},
+                    {"name": "Python", "size": 800},
+                    {"name": "ShellScript", "size": 500}
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {"name": "Python", "size": 698},
+                    {"name": "Keras", "size": 5569},
+                    {"name": "Sklearn", "size": 353},
+                    {"name": "Pandas", "size": 353},
+                    {"name": "Numpy", "size": 353}
+                  ]
+                }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelors GPA(3.76/4)   ",
+      "children": [
+        {
+          "name": "Relevant Subjects",
+          "children": [
+            {"name": "Web Development", "size": 20544},
+            {"name": "Data Warehousing and mining", "size": 19788},
+            {"name": "Machine Learning", "size": 10349},
+            {"name": "Human Machine Interaction", "size": 3301},
+            {"name": "Big Data Analysis", "size": 19382},
+            {"name": "Cryptography and System Security", "size": 11275},
+            {"name": "Software Project Management", "size": 7147},
+            {"name": "Cloud Computing", "size": 7147},
+            {"name": "Artificial Intelligence", "size": 7147},
+            {"name": "Computer Networks", "size": 7147},
+            {"name": "Compilers", "size": 9930},
+            {"name": "Database Management System", "size": 9930}
+          ]
+        }
+      ]
+    }
+  ]
+}
