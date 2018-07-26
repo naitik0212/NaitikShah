@@ -1686,7 +1686,7 @@ font-weight:700;
 
 .header-nav li.current a {
     font-family: "montserrat", sans-serif;
-    color: #B11B1B;
+    color: yellow;
 }
 
 
@@ -1801,7 +1801,7 @@ font-weight:700;
 .home-content h3 {
     font-family: "montserrat-bold", sans-serif;
     font-size: 1.8rem;
-    color: #862121;
+    color: yellow;
     text-transform: uppercase;
     letter-spacing: .5rem;
     position: relative;
@@ -1815,7 +1815,7 @@ font-weight:700;
     content: "";
     width: 60px;
     height: 2px;
-    background-color: #862121;
+    background-color: yellow;
     margin-top: -1.5px;
     position: absolute;
     left: 0;
@@ -1879,8 +1879,8 @@ font-weight:700;
 }
 
 .home-content__scroll a::after {
-    border-bottom: 3px solid #B11B1B;
-    border-right: 3px solid #B11B1B;
+    border-bottom: 3px solid yellow;
+    border-right: 3px solid yellow;
     content: '';
     display: block;
     height: 8px;
@@ -1954,7 +1954,7 @@ font-weight:700;
 }
 
 .home-social span {
-    color: #B11B1B;
+    color: yellow;
     right: 3.6rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2499,7 +2499,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-folio__cat {
-    color: #B11B1B;
+    color: yellow;
     font-family: "montserrat-regular", sans-serif;
     font-size: 1.5rem;
     margin-bottom: 0;
@@ -3009,7 +3009,7 @@ font-weight:700;
 }
 
 .stats__col--highlight .stats__count::after {
-    background-color: #862121;
+    background-color: yellow;
 }
 
 .stats__col--highlight h4 {
@@ -3121,7 +3121,7 @@ font-weight:700;
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-    background: #862121;
+    background: yellow;
 }
 
 .s-contact .form-field label::after {
@@ -3176,8 +3176,8 @@ font-weight:700;
 
 .contact__form button {
     margin-top: 4.2rem;
-    background-color: #862121;
-    border-color: #862121;
+    background-color: #ff6163;
+    border-color: #ff6163;
 }
 
 .message-warning, .message-success {
