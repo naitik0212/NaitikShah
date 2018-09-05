@@ -8,6 +8,7 @@
       <change beforePath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.html" beforeDir="false" afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.html" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.ts" beforeDir="false" afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.module.ts" beforeDir="false" afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/data.ts" beforeDir="false" afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/data.ts" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.css" beforeDir="false" afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.css" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.html" beforeDir="false" afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.html" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.ts" beforeDir="false" afterPath="$USER_HOME$/Desktop/Cyr3con Internship/dashboard/src/app/verticalbar/verticalbar.component.ts" afterDir="false" />
@@ -31,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            <state relative-caret-position="311">
+              <caret line="794" column="32" lean-forward="true" selection-start-line="794" selection-start-column="32" selection-end-line="794" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,11 +44,9 @@
                 <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#a#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,8 +84,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1515">
-              <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+            <state relative-caret-position="3661">
+              <caret line="3149" lean-forward="true" selection-start-line="3149" selection-end-line="3149" />
             </state>
           </provider>
         </entry>
@@ -121,13 +120,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>educa</find>
-      <find>flare</find>
-      <find>card</find>
-      <find>intern</find>
-      <find>scroll</find>
-      <find>smoothsc</find>
-      <find>smoothscrol</find>
       <find>arrow</find>
       <find>data</find>
       <find>d3.</find>
@@ -145,12 +137,19 @@
       <find>l</find>
       <find>axis</find>
       <find>can see more or less of the t</find>
-      <find>cyr3con</find>
       <find>radial</find>
       <find>youteach</find>
       <find>scroll up</find>
       <find>section intro</find>
       <find>fff70</find>
+      <find>header</find>
+      <find>yellow</find>
+      <find>contact</find>
+      <find>user</find>
+      <find>user-0</find>
+      <find>cyr3c</find>
+      <find>cyr3con</find>
+      <find>subjec</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -174,8 +173,8 @@
         <option value="$PROJECT_DIR$/css/pyramid.css" />
         <option value="$PROJECT_DIR$/flare.json" />
         <option value="$PROJECT_DIR$/chart.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -216,18 +215,6 @@
               <item name="Naitik Shah" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Naitik Shah" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Naitik Shah" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="avatars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Naitik Shah" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Naitik Shah" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -243,14 +230,14 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/portfolio" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/avatars" />
       <recent name="$PROJECT_DIR$/images/portfolio" />
       <recent name="$PROJECT_DIR$/images/portfolio/gallery" />
-      <recent name="$PROJECT_DIR$/images/avatars" />
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/portfolio" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,11 +296,14 @@
       <workItem from="1531419074585" duration="3946000" />
       <workItem from="1531437867561" duration="9268000" />
       <workItem from="1531987450818" duration="136000" />
+      <workItem from="1532627656103" duration="691000" />
+      <workItem from="1532640042832" duration="28000" />
+      <workItem from="1536104685267" duration="818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106091000" />
+    <option name="totallyTimeSpent" value="107628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -326,7 +316,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.31757575" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" visible="true" weight="0.28" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -340,19 +330,19 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24305555" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -366,12 +356,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/photoswipe/default-skin.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/count-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/extra.jpg" />
     <entry file="file://$PROJECT_DIR$/images/hero-bg.JPG">
       <provider selected="true" editor-type-id="images" />
@@ -557,17 +541,23 @@
     <entry file="file://$PROJECT_DIR$/images/portfolio/cyr3con.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/avatars/user-06.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/avatars/user-07.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+        <state relative-caret-position="3661">
+          <caret line="3149" lean-forward="true" selection-start-line="3149" selection-end-line="3149" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        <state relative-caret-position="311">
+          <caret line="794" column="32" lean-forward="true" selection-start-line="794" selection-start-column="32" selection-end-line="794" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -578,11 +568,9 @@
             <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#a#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
